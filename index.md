@@ -10,7 +10,7 @@ Looking down in the comments section got me interested in understanding how the 
 As I could not find and dataset on youtube comments, I used a tweet dataset that I got from kaggle with both sentiment and emotion labels. Then I used a pretrained DistilBert model to train the data. 
 
 # Model Output
-The model outputs two emotions and sentiments. 
+The model outputs emotions and sentiments. 
 
 Here are the possible emotions
 * anger
