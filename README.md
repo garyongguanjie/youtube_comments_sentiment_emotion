@@ -31,4 +31,5 @@ So as to see the emotions and sentiments of the general public. Here are the res
 ![sentiment_image](sentiment.png)
 ![emotion_image](emotion.png)
 
-The output is in out.csv and it shows that Singaporeans seems to have an overall positive feel but are still feeling worried.
+It shows that Singaporeans seems to have an overall positive feel but are still feeling worried.\
+You can see the final model output in out.csv
