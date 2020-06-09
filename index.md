@@ -23,7 +23,7 @@ Here are the possible sentiments:
 * negative
 * positive
 
-# Applying it the model on a COVID19 announce by our Prime Minister
+# Applying it the model on a COVID19 announcement by our Prime Minister
 
 Next I used this model on comments of this video. [PM Lee Hsien Loong on Singapore's post-COVID-19 future, says "Do not fear" ](https://www.youtube.com/watch?v=rAhuD368Ij0) 
 
