@@ -12,4 +12,5 @@ https://www.kaggle.com/maxjon/complete-tweet-sentiment-extraction-data
 
 Training code: https://www.kaggle.com/garyongguanjie/comments-analysis
 
-[![Inference notebook here](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/colabtools/blob/master/sentiment.ipynb)
+[![Inference notebook here](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/youtube_comments_sentiment_emotion
+/blob/master/sentiment.ipynb)
