@@ -29,8 +29,6 @@ Next I used this model on comments of this video. [PM Lee Hsien Loong on Singapo
 
 By using a youtube comment scraper, I scraped the comments and applied the model to the comments on the video. For text that are too long, they are cut off at around ~500 words.
 
-So as to see the emotions and sentiments of the general public. 
-
 The results are I would say pretty good!
 Here are some examples
 
@@ -44,7 +42,7 @@ Here are some examples
 | time for the ministers to cut pay. 4G leaders make a mess, refused to apologies for their mistakes and blame us. Paid so well doing a roaring business themselves and still got face to take such high salaries. Vietnam did better than us. 0 fatalities. less than 10% got infected. We your citizens who are paying you are not dumbass. You guys better buckle up or be shipped (sheep) out | negative | sadness | 
 | Thank you Singapore!  It is proud to be a Singaporean | positive | hapiness |
 
-Next I plot the data into a pie chart.
+Next I plot the data into a pie chart to see the general sentiments and emotions of the public.
 
 ![sentiment_image](sentiment.png)
 
