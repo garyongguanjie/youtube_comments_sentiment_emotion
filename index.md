@@ -27,7 +27,7 @@ Here are the possible sentiments:
 
 Next I used this model on comments of this video. [PM Lee Hsien Loong on Singapore's post-COVID-19 future, says "Do not fear" ](https://www.youtube.com/watch?v=rAhuD368Ij0) 
 
-By using a youtube comment scraper, I scraped the comments and applied the model to the comments on the video. For text that are too long, they are cut off at around ~500 words.
+By using a youtube comment scraper, I scraped the comments and applied the model to the comments on the video. For text that are too long, they are cut off at around ~500 words. There are about 500 comments in the end of some data cleaning.
 
 The results are I would say pretty good!
 Here are some examples
@@ -35,12 +35,12 @@ Here are some examples
 | Comment | Sentiment | Emotion |
 | --- | --- | --- |
 | LKY came out from his grave and disapproved this message. | negative | sadness |
-| Thank you PM LEE, not easy for the government. Well done so far! | positive | hapiness |
+| Thank you PM LEE, not easy for the government. Well done so far! | positive | happiness |
 | thank you daddy lee | positive | love |
 | Opposition & Opposition Supporter go away la.  Dont try to Divide SG United & brain  wash Singaporean to vote you for corruption.  Disgusting ! Not happy with PAP & Singapore.  Migrate to Hongkong or Taiwan protest & protest la.  Singaporean dont want Political fight.  Just want stability in the hand  of PAP.    So Regret voting for Opposition party last time | negative | hate |
 | I'm always inspired and motivated by PM's speeches.  With our PM and his Cabinet leading us, I'm confident we will overcome any obstacles and come out stronger than before #SGUnited | positive | relief |
 | time for the ministers to cut pay. 4G leaders make a mess, refused to apologies for their mistakes and blame us. Paid so well doing a roaring business themselves and still got face to take such high salaries. Vietnam did better than us. 0 fatalities. less than 10% got infected. We your citizens who are paying you are not dumbass. You guys better buckle up or be shipped (sheep) out | negative | sadness | 
-| Thank you Singapore!  It is proud to be a Singaporean | positive | hapiness |
+| Thank you Singapore!  It is proud to be a Singaporean | positive | happiness |
 
 Next I plot the data into a pie chart to see the general sentiments and emotions of the public.
 
