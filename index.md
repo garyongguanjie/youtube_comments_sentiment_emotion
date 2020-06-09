@@ -1,8 +1,16 @@
+# Introduction
+Recently I was watching this youtube video of PM Lee making an update on the current COVID19 situation:
+
+[PM Lee Hsien Loong on Singapore's post-COVID-19 future, says "Do not fear" ](https://www.youtube.com/watch?v=rAhuD368Ij0) 
+
+![video](video.png)
+
+Looking down in the comments section got me interested in understanding how the typical (or not typical) Singaporean feel. Since I knew a fair bit about natural languange processing I decided to analyse the comments of this video.
 # Training methodology
 As I could not find and dataset on youtube comments, I used a tweet dataset that I got from kaggle with both sentiment and emotion labels. Then I used a pretrained DistilBert model to train the data. 
 
 # Model Output
-The model outputs two things namely emotion and sentiment. 
+The model outputs two emotions and sentiments. 
 
 Here are the possible emotions
 * anger
@@ -25,11 +33,9 @@ Here are the possible sentiments:
 
 # Applying the model on a COVID19 announcement by our Prime Minister
 
-Next I used this model on comments of this video. [PM Lee Hsien Loong on Singapore's post-COVID-19 future, says "Do not fear" ](https://www.youtube.com/watch?v=rAhuD368Ij0) 
+By using a youtube comment scraper, I scraped the comments and applied the model to the comments on the video. For text that are too long, they are cut off at around ~500 words. There are about 500 comments in the end after some data cleaning.
 
-By using a youtube comment scraper, I scraped the comments and applied the model to the comments on the video. For text that are too long, they are cut off at around ~500 words. There are about 500 comments in the end of some data cleaning.
-
-The results are I would say pretty good!
+The results are pretty good!
 Here are some examples
 
 | Comment | Sentiment | Emotion |
