@@ -53,11 +53,11 @@ You can see the final model output in out.csv
 
 # Running the model yourself on any video
 ## Download the model
-https://www.kaggle.com/garyongguanjie/comments-analysis
 
-You can download the model here under **output**
+You can download the model here under [**output**](https://www.kaggle.com/garyongguanjie/comments-analysis/output)
 
 ## Run it on colab
 No installation is required! Youtube comments scraper is included in this notebook all you need to do is to put in the video id.
 Mount the trained model onto your google drive and run the notebook below.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garyongguanjie/youtube_comments_sentiment_emotion/blob/master/sentiment.ipynb)
