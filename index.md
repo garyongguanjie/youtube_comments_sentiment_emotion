@@ -38,7 +38,7 @@ By using a youtube comment scraper, I scraped the comments and applied the model
 
 The results are pretty good!
 Here are some examples
-
+## Examples
 | Comment | Sentiment | Emotion |
 | --- | --- | --- |
 | LKY came out from his grave and disapproved this message. | negative | sadness |
@@ -66,7 +66,8 @@ You can see the final model output in <a href="out.csv" download>out.csv</a>
 
 ![emotion_image](emotion1.png)
 
-|---
+## Examples
+
 | Comment | Sentiment | Emotion |
 | --- | --- | --- |
 | That time is 18 days when we have the circuit breaker | neutral | worry |
@@ -77,11 +78,11 @@ You can see the final model output in <a href="out.csv" download>out.csv</a>
 | Honestly.. 1m safe distancing is not enough. One droplets two droplets maybe it works.. but when we are talking about millions billions of droplets circulating since now there so many confirmed and undetected cases around.. can 1m safe distancing really works? I think scientists researchers really need to confirm this. A drop can fall on the ground and dries up in short distances. But when theres too much it works like tsunami. The whole world need to think about this.. this is not just short distance airborne anymore. We are talking about much more particles that combines and travel even further than just 1m. | neutral | worry |
 | Dying with envy here. Your prime minister appears on TV and assures that they are above the situation and you have the resources to tackle the virus. Well, you should be grateful... Here in our country, it is what it is that you can surmise from the news. | positive | worry |
 | Right on PM Lee.  Stay Safe. Want to be president of America?  Wait, you can't, because you are not America born.  Doesn't hurt in dreaming. | positive | neutral |
-| Footer row
+
 ## Download model output 
 You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 # And Here are the stats
-|---
+## Sentiment
 | sentiment | Do not fear video | Extend 4 weeks video |
 | --- | --- | --- |
 | positive | 40.7% | 30.4% |
@@ -89,7 +90,7 @@ You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 | neutral | 37.4% | 51.8% | 
 | Footer row
 
-|---
+## Emotion
 | emotion | Do not fear video | Extend 4 weeks video |
 | --- | --- | --- |
 | worry | 33.2% | 32.6% |
@@ -100,7 +101,6 @@ You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 | happiness | 19.0% | 13.1% |
 | surprise | 0.8% | 0% |
 | love | 6.1% | 5.3% |
-| Footer row
 
 Looks like positivity inreased in the Do Not Fear video. However emotionally but it seems people are more worried and sad and more happy at the same time while less people are neutral to what they feel. One thing to say for sure, love for PM lee has increased.
 
