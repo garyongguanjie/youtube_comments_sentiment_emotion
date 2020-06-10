@@ -88,7 +88,6 @@ You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 | positive | 40.7% | 30.4% |
 | negative | 21.9% | 17.8% |
 | neutral | 37.4% | 51.8% | 
-| Footer row
 
 ## Emotion
 | emotion | Do not fear video | Extend 4 weeks video |
