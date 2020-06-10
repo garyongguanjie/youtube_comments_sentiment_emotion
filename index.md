@@ -104,7 +104,7 @@ You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 | surprise | 0.8% | 0% |
 | love | 6.1% | 5.3% |
 
-Looks like positivity inreased in the Do Not Fear video. However emotionally but it seems people are more worried and sad and more happy at the same time while less people are neutral to what they feel. One thing to say for sure, love for PM lee has increased.
+Looks like positivity increased in the Do Not Fear video. However it seems people are more emotional at the same time(less people are neutral). But people are more happy too! One thing to say for sure, love for PM lee has increased.
 
 # Running the model yourself on any video
 ## Download the model
