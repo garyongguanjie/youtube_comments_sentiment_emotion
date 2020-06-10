@@ -55,8 +55,9 @@ Next I plot the data into a pie chart to see the general sentiments and emotions
 
 ![emotion_image](emotion.png)
 
-It shows that Singaporeans seems to have an overall positive feel but are still feeling worried.
-You can see the final model output in out.csv
+It shows that Singaporeans seem to be positive but are still feeling worried.
+# Download final output
+You can see the final model output in <a href="out.csv" download>out.csv</a>
 
 # Running the model yourself on any video
 ## Download the model
