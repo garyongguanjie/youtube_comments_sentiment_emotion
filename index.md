@@ -79,7 +79,7 @@ You can see the final model output in <a href="out.csv" download>out.csv</a>
 ## Download model output 
 You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 # And Here are the stats
-|sentiment| Do not fear video | Extend 4 weeks video |
+| sentiment | Do not fear video | Extend 4 weeks video |
 | --- | --- | --- |
 | positive | 40.7% | 30.4% |
 | negative | 21.9% | 17.8% |
