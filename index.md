@@ -40,6 +40,7 @@ The results are pretty good!
 Here are some examples
 ## Examples
 | Comment | Sentiment | Emotion |
+
 | --- | --- | --- |
 | LKY came out from his grave and disapproved this message. | negative | sadness |
 | Thank you PM LEE, not easy for the government. Well done so far! | positive | happiness |
@@ -69,6 +70,7 @@ You can see the final model output in <a href="out.csv" download>out.csv</a>
 ## Examples
 
 | Comment | Sentiment | Emotion |
+
 | --- | --- | --- |
 | That time is 18 days when we have the circuit breaker | neutral | worry |
 | I cannot imagine the Nasty Moron in the WH speaking with so much intelligence, compassion & leadership. Majulah Singapura ! | negative | worry |
@@ -84,6 +86,7 @@ You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 # And Here are the stats
 ## Sentiment
 | sentiment | Do not fear video | Extend 4 weeks video |
+
 | --- | --- | --- |
 | positive | 40.7% | 30.4% |
 | negative | 21.9% | 17.8% |
@@ -91,6 +94,7 @@ You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 
 ## Emotion
 | emotion | Do not fear video | Extend 4 weeks video |
+
 | --- | --- | --- |
 | worry | 33.2% | 32.6% |
 | sadness | 8.7% | 5.8% |
