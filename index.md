@@ -1,9 +1,10 @@
 # COVID19 Sentiment and emotion analysis
+
+![video](Picture1.png)
+
 Recently I was watching this youtube video of PM Lee making an update on the current COVID19 situation:
 
 [PM Lee Hsien Loong on Singapore's post-COVID-19 future, says "Do not fear" ](https://www.youtube.com/watch?v=rAhuD368Ij0) 
-
-![video](video.png)
 
 Looking down in the comments section got me interested in understanding how the typical (or not typical) Singaporean feel. Since I knew a fair bit about natural language processing I decided to analyse the comments of this video.
 # Training methodology
