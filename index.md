@@ -1,5 +1,4 @@
 # COVID19 Sentiment and emotion analysis
-# Introduction
 Recently I was watching this youtube video of PM Lee making an update on the current COVID19 situation:
 
 [PM Lee Hsien Loong on Singapore's post-COVID-19 future, says "Do not fear" ](https://www.youtube.com/watch?v=rAhuD368Ij0) 
