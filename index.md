@@ -7,7 +7,7 @@ Recently I was watching this youtube video of PM Lee making an update on the cur
 
 Looking down in the comments section got me interested in understanding how the typical (or not typical) Singaporean feel. Since I knew a fair bit about natural language processing I decided to analyse the comments of this video.
 # Training methodology
-As I could not find and dataset on youtube comments, I used a tweet dataset that I got from kaggle with both sentiment and emotion labels. Then I used a pretrained DistilBert model to train the data. 
+As I could not find any dataset on youtube comments, I used a tweet dataset that I got from kaggle with both sentiment and emotion labels. Then I used a pretrained DistilBert model to train the data. 
 
 # Model Output
 The model outputs emotions and sentiments. 
