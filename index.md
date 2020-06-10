@@ -39,9 +39,9 @@ By using a youtube comment scraper, I scraped the comments and applied the model
 The results are pretty good!
 Here are some examples
 ## Examples
+
 | Comment | Sentiment | Emotion |
 | --- | --- | --- |
-
 | LKY came out from his grave and disapproved this message. | negative | sadness |
 | Thank you PM LEE, not easy for the government. Well done so far! | positive | happiness |
 | thank you daddy lee | positive | love |
@@ -71,7 +71,6 @@ You can see the final model output in <a href="out.csv" download>out.csv</a>
 
 | Comment | Sentiment | Emotion |
 | --- | --- | --- |
-
 | That time is 18 days when we have the circuit breaker | neutral | worry |
 | I cannot imagine the Nasty Moron in the WH speaking with so much intelligence, compassion & leadership. Majulah Singapura ! | negative | worry |
 | I kind of want it to extend until september | neutral | neutral |
@@ -85,17 +84,17 @@ You can see the final model output in <a href="out.csv" download>out.csv</a>
 You can see the final model output in <a href="out2.csv" download>out2.csv</a>
 # And Here are the stats
 ## Sentiment
+
 | sentiment | Do not fear video | Extend 4 weeks video |
 | --- | --- | --- |
-
 | positive | 40.7% | 30.4% |
 | negative | 21.9% | 17.8% |
 | neutral | 37.4% | 51.8% | 
 
 ## Emotion
+
 | emotion | Do not fear video | Extend 4 weeks video |
 | --- | --- | --- |
-
 | worry | 33.2% | 32.6% |
 | sadness | 8.7% | 5.8% |
 | neutral | 28.9% | 37.9% |
