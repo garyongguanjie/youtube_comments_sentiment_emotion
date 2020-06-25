@@ -7,6 +7,8 @@ Predicts sentiments from 3 categories
 
 neutral, positive, negative
 
+[See blog post here](https://garyongguanjie.github.io/youtube_comments_sentiment_emotion/)
+
 # Training data
 Training data on tweets as I could not find any labelled dataset of youtube comments.
 
