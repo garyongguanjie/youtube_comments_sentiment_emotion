@@ -135,7 +135,7 @@ def print_test(df,i):
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 model = CommentModel()
 model.to(device)
-model.load_state_dict(torch.load('model.bin',map_location=torch.device('cpu')))
+model.load_state_dict(torch.load('model.bin',map_location=device)
 model = torch.quantization.quantize_dynamic(model,{torch.nn.Linear},dtype=torch.qint8)
 
 @functools.lru_cache(128)
