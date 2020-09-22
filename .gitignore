@@ -1,6 +1,6 @@
 model.bin
-/node_modules
-/__pycache__
+*/node_modules
+*/__pycache__
 /.pnp
 .pnp.js
 
@@ -8,7 +8,7 @@ model.bin
 /coverage
 
 # production
-/build
+*/build
 
 # misc
 .DS_Store
